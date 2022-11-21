@@ -2,7 +2,7 @@
 
 
 - 🔭 No momento estou trabalhando por fora da programação
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo HTML5 e CSS3
 - 🤔 Procuro ajuda com programação 
 - 😄 Pronouns: ele/dele
 
