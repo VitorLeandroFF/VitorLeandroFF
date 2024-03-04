@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitor Leandro 👋
+## Olá! 👋
 
 
 - 🔭 No momento estou trabalhando por fora da programação
