@@ -2,8 +2,8 @@
 
 
 - 🔭 No momento estou trabalhando por fora da programação
-- 💻 Atualmente estou aprendendo HTML5 e CSS3
-- ✨ Estudando analise e desenvolvimento de sistemas (Unic-faculdade) 
+- 💻 Atualmente estou aprendendo back-end
+- ✨ Formado em analise e desenvolvimento de sistemas (Anhanguera-faculdade) 
 
 <div align="center">
   <a href="https://github.com/VitorLeandroFF">
